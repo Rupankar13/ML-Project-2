@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python virtual environment
+venv/
+
+# Anaconda installer
+*.sh
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
