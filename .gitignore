@@ -231,3 +231,5 @@ __pycache__/
 
 # Environment variables
 .env
+
+.artifacts
