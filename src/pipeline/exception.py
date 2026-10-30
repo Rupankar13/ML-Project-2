@@ -8,7 +8,7 @@ def error_message_detail(error,error_detail:sys):
     filename,exc_tb.tb_lineno,str(error)
     )
 
-    return error_message_detail
+    return error_message
 
 
 class CustomException(Exception):
